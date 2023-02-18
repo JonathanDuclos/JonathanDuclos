@@ -7,7 +7,7 @@
 
 - 🔭 currently working as **freelancer**
 
-- 🌱 currently learning **IA with Python, and React advanced concepts**
+- 🌱 currently learning **IA, Deep Learning and Machine Learning with Python and React advanced concepts**
 
 - 👯 looking to collaborate on **any projects I could help**
 
