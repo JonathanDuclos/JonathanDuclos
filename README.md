@@ -1,4 +1,4 @@
-<h1 align="center">Hi 馃憢, I'm Jonathan Duclos</h1>
+<h1 align="center">Hi, I'm Jonathan Duclos</h1>
 <h3 align="center">A passionate full stack developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanduclos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanduclos" /> </p>
