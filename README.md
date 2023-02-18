@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Jonathan Duclos</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Duclos</h1>
 <h3 align="center">A passionate full stack developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanduclos&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanduclos" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@simmookobayashi" target="blank"><img src="https://img.shields.io/twitter/follow/@simmookobayashi?logo=twitter&style=for-the-badge" alt="@simmookobayashi" /></a> </p>
 
-- 馃敪 I鈥檓 currently working as **freelancer**
+- 🔭 currently working as **freelancer**
 
-- 馃尡 I鈥檓 currently learning **IA with Python, and React advanced concepts**
+- 🌱 currently learning **IA with Python, and React advanced concepts**
 
-- 馃懐 I鈥檓 looking to collaborate on **any projects I could help**
+- 👯 looking to collaborate on **any projects I could help**
 
-- 馃 I鈥檓 looking for help with **angular, react and node**
+- 🤝 looking for help with **angular, react and node**
 
-- 馃挰 Ask me about **react, angular, unicorns and universe!**
+- 💬 Ask me about **react, angular, unicorns and universe!**
 
-- 馃摣 How to reach me **jonathan.duclos69@gmail.com**
+- 📫 How to reach me **jonathan.duclos69@gmail.com or send me a message in social medias**
 
-- 鈿� Fun fact **I love moba games like Dota2 and League of Legends and my first experience with programming comes up with .bat files in Windows.**
+- ⚡ Fun fact **I love moba games like Dota2 and League of Legends and my first experience with programming comes up with .bat files in Windows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@simmookobayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@simmookobayashi" height="30" width="40" /></a>
-<a href="https://instagram.com/@simmookobayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@simmookobayashi" height="30" width="40" /></a>
+<a href="https://instagram.com/simmookobayashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@simmookobayashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
