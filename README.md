@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jonathan.duclos69@gmail.com or send me a message in social medias**
 
-- ⚡ Fun fact **I love moba games like Dota2 and League of Legends and my first experience with programming comes up with .bat files in Windows.**
+- ⚡ Fun fact **Fun fact about me: my first experience with programming comes up with .bat files in Windows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
