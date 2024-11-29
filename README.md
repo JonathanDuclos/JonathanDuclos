@@ -11,7 +11,7 @@
 
 - 👯 looking to collaborate on **any projects I could help**
 
-- 💬 Ask me about **react, angular, unicorns and universe!**
+- 💬 Ask me about **react, typescrip, angular, node, unicorns and universe!**
 
 - 📫 How to reach me **jonathan.duclos69@gmail.com or send me a message in social medias**
 
